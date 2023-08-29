@@ -1,5 +1,7 @@
 # CryptoSite
 
+![image](https://github.com/anupriya-21/CryptoSite/assets/85447881/5c838820-c05f-440b-868b-c87fb6298fe5)
+
 
 # Getting Started with Create React App
 
