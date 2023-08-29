@@ -9,6 +9,7 @@ import Data from './components/Data';
 import Faq from './components/Faq';
 import Footer from './components/Footer';
 import Error from "./components/Error";
+import Logo from "./components/Logo";
 
 const Layout=()=>{
     return(
@@ -22,7 +23,8 @@ const Layout=()=>{
       <Data />
       <Faq />
       <Footer />
-      <Error />
+      <Logo/>
+      
         </>
     )
 }

@@ -6,7 +6,7 @@ const Header = () => {
     <>
       <nav className="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 px-4 px-lg-5">
         <a href="index.html" className="navbar-brand d-flex align-items-center">
-          <h2 className="m-0 text-primary">
+          <Link to="/price"><h2 className="m-0 text-primary">
             <img
               className="img-fluid me-2"
               src="img/icon-1.png"
@@ -15,6 +15,7 @@ const Header = () => {
             />
             CryptoCoin
           </h2>
+          </Link>
         </a>
         <button
           type="button"
